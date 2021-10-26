@@ -5,7 +5,7 @@
 
 - 💻 I'm currently working remote on **University** :( .
 
-- 🌱 I'm currently learning ASP .NET Technologies, Java, Kotlin, JavaScript, C#.
+- 🌱 I'm currently learning ASP .NET Technologies, MVC, Java, Kotlin, JavaScript, C#.
 
 - 👀 I'm looking for help with Azure, Google Cloud, Kubernetes, Docker, Php.
 

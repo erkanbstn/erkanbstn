@@ -5,8 +5,8 @@
 
 - 💻 I'm currently working remote on **University** :( .
 
-- 🌱 I'm currently learning ASP .NET Technologies, MVC, Java, Kotlin, JavaScript, C#.
+- 🌱 I'm currently learning ASP .NET Technologies, MVC, HTML, CSS, JavaScript, C#.
 
-- 👀 I'm looking for help with Azure, Google Cloud, Kubernetes, Docker, Php.
+- 👀 I'm looking for help with Oracle, RESTFul Api, SOLID Principles, Docker, Php.
 
 - 📫 How to reach me: on my e-mail profesyonel59@gmail.com or [LinkedIn.](https://www.linkedin.com/in/erkan-bostan-11257a210/)

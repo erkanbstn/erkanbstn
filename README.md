@@ -3,7 +3,7 @@
 
 - I graduated from **Balıkesir University**, **Turkey**.. I love explore new technologies. I like to join conferences. I love open source projects and develop.
 
-- 💻 I'm currently working at **ProjeIT** .
+- 💻 I'm currently working at **Sinerji Bilişim** .
 
 - 🌱 I'm currently learning ASP .NET Technologies, MVC, HTML, CSS, JavaScript, C#.
 

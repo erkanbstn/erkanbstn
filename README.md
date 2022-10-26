@@ -3,7 +3,7 @@
 
 - I graduated from **Balıkesir University**, **Turkey**.. I love explore new technologies. I love open source projects and develop.
 
-- 💻 I'm currently working at **Bizmed - Sinerji Bilişim Danışmanlık** as a Software Support Specialist.
+- 💻 I'm currently working at **CODEX** as a Software Specialist.
 
 - 🌱 I'm currently learning ASP .NET Technologies, MVC, HTML, CSS, JavaScript, C#.
 

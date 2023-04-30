@@ -3,7 +3,7 @@
 
 - I graduated from **Balıkesir University**, **Turkey**.. I love explore new technologies. I love open source projects and develop.
 
-- 💻 I'm currently working at **MagiClick** as a Software Specialist.
+- 💻 I'm currently working at **-** as a Software Specialist.
 
 - 🌱 I'm currently learning .NET Technologies
 

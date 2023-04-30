@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Erkan Bostan.<br><br>💻 I'm currently working at - as a Software Specialist.<br><br>🌱 I'm currently learning .NET & Angular Technologies<br><br>📫 How to reach me: on my e-mail erkanbstn34@gmail.com
+I am Erkan Bostan.<br><br>💻 I'm currently working at - as a Software Specialist.<br><br>🌱 I'm currently learning .NET & Angular Technologies<br><br>📫 How to reach me:  erkanbstn34@gmail.com or <a href="https://erkanbostan.com">My Web Site</a> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erkanbstn&icon=3&color=2)](https://visitcount.itsvg.in)
@@ -20,6 +20,3 @@ I am Erkan Bostan.<br><br>💻 I'm currently working at - as a Software Speciali
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Geo#3857) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erkanbssn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erkanbostan)
-<br/>
-<br/>
-<img src="" alt="website" style="max-width: 100%;">

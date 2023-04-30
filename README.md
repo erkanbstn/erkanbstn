@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Erkan Bostan.<br><br>💻 I'm currently working at - as a Software Specialist.<br><br>🌱 I'm currently learning .NET & Angular Technologies<br><br>📫 How to reach me: on my e-mail erkanbstn34@gmail.com and LinkedIn. or MyWEBSite.
+I am Erkan Bostan.<br><br>💻 I'm currently working at - as a Software Specialist.<br><br>🌱 I'm currently learning .NET & Angular Technologies<br><br>📫 How to reach me: on my e-mail erkanbstn34@gmail.com
 
 
 ## 🌐 Socials:

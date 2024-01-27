@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Erkan Bostan.<br><br>💻 I'm currently working at PEAKUP Technologies as a Software Developer.<br><br>🌱 I'm currently learning .NET & Angular Technologies<br><br>📫 How to reach me:  erkanbstn34@gmail.com or <a href="https://erkanbostan.com" target='_blank' >My Web Site</a> 
+I am Erkan Bostan.<br><br>💻 I'm currently working at Genbil Technologies as a Software Specialist.<br><br>🌱 I'm currently learning .NET & React Technologies<br><br>📫 How to reach me:  erkanbstn34@gmail.com or <a href="https://erkanbostan.com" target='_blank' >My Web Site</a> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erkanbstn&icon=3&color=2)](https://visitcount.itsvg.in)

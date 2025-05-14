@@ -21,8 +21,11 @@ SQL Server, PL/SQL, and NoSQL database systems
 📫 Connect with me:
 
 Email: erkanbstn34@gmail.com
+
 Portfolio: <a href="https://erkanbostan.com" target='_blank'>[Web Site Link]</a>
+
 LinkedIn: <a href="https://www.linkedin.com/in/erkanbostan/" target='_blank'>[Profile Link]</a>
+
 💡 Open to collaboration on innovative projects and knowledge sharing within the tech community.
 
 ---

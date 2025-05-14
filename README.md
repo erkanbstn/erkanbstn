@@ -1,5 +1,29 @@
-# 💫 About Me:
-I am Erkan Bostan.<br><br>💻 I'm currently working at Genbil Technologies as a Software Specialist.<br><br>🌱 I'm currently learning .NET & React Technologies<br><br>📫 How to reach me:  erkanbstn34@gmail.com or <a href="https://erkanbostan.com" target='_blank' >My Web Site</a> 
+💫 About Me:
+I'm Erkan Bostan, an experienced Software Engineer specializing in enterprise solutions.
+
+💼 Currently working as a Software Specialist at Genbil Technologies, developing scalable applications with Microsoft Dynamics 365, .NET Core, and React.
+
+🔧 With 5+ years of experience, I've built and optimized enterprise applications across multiple industries, focusing on performance, security, and user experience.
+
+🚀 Technical expertise in:
+
+.NET Core 8.0 & .NET Framework ecosystem
+React.js, Angular, and modern JavaScript frameworks
+Microsoft Dynamics 365 customization and development
+Microservice architecture & cloud-based solutions
+SQL Server, PL/SQL, and NoSQL database systems
+🌱 Continuously expanding my knowledge in advanced React patterns, cloud-native architectures, and DevOps practices.
+
+👨‍💻 Passionate about clean code, SOLID principles, and creating maintainable software solutions that solve real business challenges.
+
+🔍 Always exploring new technologies while maintaining deep expertise in my core technology stack.
+
+📫 Connect with me:
+
+Email: erkanbstn34@gmail.com
+Portfolio: <a href="https://erkanbostan.com" target='_blank'>[Web Site Link]</a>
+LinkedIn: <a href="https://www.linkedin.com/in/erkanbostan/" target='_blank'>[Profile Link]</a>
+💡 Open to collaboration on innovative projects and knowledge sharing within the tech community.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erkanbstn&icon=3&color=2)](https://visitcount.itsvg.in)

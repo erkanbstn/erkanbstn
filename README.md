@@ -7,7 +7,7 @@ I'm Erkan Bostan, an experienced Software Engineer specializing in enterprise so
 
 🚀 Technical expertise in:
 
-.NET Core 8.0 & .NET Framework ecosystem
+.NET Core 9.0 & .NET Framework ecosystem
 React.js, Angular, and modern JavaScript frameworks
 Microsoft Dynamics 365 customization and development
 Microservice architecture & cloud-based solutions

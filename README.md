@@ -1,7 +1,7 @@
 💫 About Me:
 I'm Erkan Bostan, an experienced Software Engineer specializing in enterprise solutions.
 
-💼 Previously worked as a Software Specialist at Genbil Technologies, developing scalable applications with Microsoft Dynamics 365, .NET Core, and React.
+💼 Previously worked as a Software Specialist at Cell Solutions, developing scalable applications with .NET Framework, .NET Core, React Native and React.
 
 🔧 With 5+ years of experience, I've built and optimized enterprise applications across multiple industries, focusing on performance, security, and user experience.
 
